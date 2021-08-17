@@ -1,6 +1,6 @@
 ### Hi there, I'm Yabetse - aka [ysabate][website] 👋
 
-[![Website](https://img.shields.io/endpoint?color=orange&label=yabetseabate.com&logo=none&logoColor=orange&style=flat-square)](https://www.yabetseabate.com/)
+[![Website](https://img.shields.io/badge/yabetseabate.com-up-brightgreen)](https://www.yabetseabate.com/)
 
 ## I'm a Student and Software Developer!!
 
