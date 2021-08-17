@@ -42,7 +42,7 @@
 
 
 [website]: https://www.yabetseabate.com/
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/abate_yabetsh/
 [linkedin]: https://www.linkedin.com/in/yabetse-solomon-349373208/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
