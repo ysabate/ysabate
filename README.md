@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/badge/yabetseabate.com-up-brightgreen)](https://www.yabetseabate.com/)
 
-## I'm a Student and Software Developer!!
+## I'm a Software Developer!!
 
-- 🌱 I’m currently learning React and NodeJS
+- 🌱 I’m currently Solidity
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Found a start up
 - ⚡ Fun fact: I love to play basketball
 
 ### Connect with me:
