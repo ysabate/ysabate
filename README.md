@@ -4,7 +4,7 @@
 
 ## I'm a Software Developer!!
 
-- 🌱 I’m currently Solidity
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Found a start up
 - ⚡ Fun fact: I love to play basketball
